@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006133633532",
+    "project_id": "fsf-account",
+    "storage_bucket": "fsf-account.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006133633532:android:aea80fcf2d7613540a9279",
+        "android_client_info": {
+          "package_name": "com.example.fsf_finance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006133633532-p6c51ibao5atibg7e4rme0gtr08j0r6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKTGwgghtxFp0_rxtF9gwKvrAW9ouX3Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006133633532-p6c51ibao5atibg7e4rme0gtr08j0r6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
